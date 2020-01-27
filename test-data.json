@@ -1,0 +1,9 @@
+{
+	"baseUrl": "http://www.way2automation.com/angularjs-protractor/banking/#/login",
+	"dataInput": {
+		"fistName": "Alex",
+        "lastName": "Waiganjo",
+        "postCd": "12345668"
+
+	}
+}
